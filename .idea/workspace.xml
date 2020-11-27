@@ -26,15 +26,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
-    <property name="javascript.nodejs.core.library.typings.version" value="10.17.35" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/index2.html" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/index2.html" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="index2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html.portfolio.austin/index2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/austin.portfolio/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html.portfolio.austin/index.html" useBuiltInWebServerPort="true">
@@ -42,6 +45,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index2.html" />
       </list>
@@ -61,6 +65,8 @@
       <workItem from="1606342874844" duration="565000" />
       <workItem from="1606364817317" duration="1847000" />
       <workItem from="1606366861502" duration="8349000" />
+      <workItem from="1606375442377" duration="262000" />
+      <workItem from="1606421239854" duration="1798000" />
     </task>
     <task id="LOCAL-00001" summary="viewport update">
       <created>1606364870567</created>
@@ -104,9 +110,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2626" y="217" width="498" height="652" key="Github.UntrackedFilesDialog/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1606342929505" />
-    <state x="934" y="89" width="947" height="737" key="SettingsEditor" timestamp="1606327993049">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="466" y="31" width="900" height="737" key="SettingsEditor" timestamp="1606421335534">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="466" y="31" width="900" height="737" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1606421335534" />
     <state x="934" y="89" width="947" height="737" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1606327993049" />
     <state x="2735" y="453" width="279" height="181" key="VCS.ChangelistChooser" timestamp="1606365330439">
       <screen x="1920" y="0" width="1920" height="1080" />
