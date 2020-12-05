@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ede5f3db-5b99-45f0-8bac-31203a822c26" name="Default Changelist" comment="-initial developer branch commit">
+    <list default="true" id="ede5f3db-5b99-45f0-8bac-31203a822c26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ap.web.resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,13 +23,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kllxUHJgTAn2WKyxus8Gn8qv9F" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
@@ -70,7 +75,8 @@
       <workItem from="1606364817317" duration="1847000" />
       <workItem from="1606366861502" duration="11027000" />
       <workItem from="1606446865350" duration="5540000" />
-      <workItem from="1607117707545" duration="379000" />
+      <workItem from="1607117707545" duration="527000" />
+      <workItem from="1607138950452" duration="18332000" />
     </task>
     <task id="LOCAL-00001" summary="viewport update">
       <created>1606364870567</created>
@@ -100,17 +106,26 @@
       <option name="project" value="LOCAL" />
       <updated>1607117942052</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-initial developer branch commit">
+      <created>1607118094243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607118094243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="viewport update" />
     <MESSAGE value="-aos feature fade-in-left was making body have right margin. Fixed by deleting fade in left from cards" />
     <MESSAGE value="-aos feature fade-in-left was making body have right margin. Fixed by deleting fade in left from cards..." />
     <MESSAGE value="-added button functionality to projects section with links to github pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="-added button functionality to projects section with links to github pages" />
+    <MESSAGE value="-initial developer branch commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="-initial developer branch commit" />
   </component>
 </project>
