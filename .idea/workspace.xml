@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ede5f3db-5b99-45f0-8bac-31203a822c26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ap.web.resume.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -76,7 +75,8 @@
       <workItem from="1606366861502" duration="11027000" />
       <workItem from="1606446865350" duration="5540000" />
       <workItem from="1607117707545" duration="527000" />
-      <workItem from="1607138950452" duration="18332000" />
+      <workItem from="1607138950452" duration="18679000" />
+      <workItem from="1607228163382" duration="1701000" />
     </task>
     <task id="LOCAL-00001" summary="viewport update">
       <created>1606364870567</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607118094243</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-connected all links &#10;-added resume&#10;-various animation tweaks">
+      <created>1607157454695</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607157454695</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +133,7 @@
     <MESSAGE value="-aos feature fade-in-left was making body have right margin. Fixed by deleting fade in left from cards..." />
     <MESSAGE value="-added button functionality to projects section with links to github pages" />
     <MESSAGE value="-initial developer branch commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="-initial developer branch commit" />
+    <MESSAGE value="-connected all links &#10;-added resume&#10;-various animation tweaks" />
+    <option name="LAST_COMMIT_MESSAGE" value="-connected all links &#10;-added resume&#10;-various animation tweaks" />
   </component>
 </project>
