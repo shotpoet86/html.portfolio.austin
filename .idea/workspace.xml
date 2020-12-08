@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ede5f3db-5b99-45f0-8bac-31203a822c26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/online.resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ap.web.resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ede5f3db-5b99-45f0-8bac-31203a822c26" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +75,7 @@
       <workItem from="1607138950452" duration="18679000" />
       <workItem from="1607228163382" duration="1799000" />
       <workItem from="1607286145356" duration="728000" />
-      <workItem from="1607289428468" duration="46000" />
+      <workItem from="1607289428468" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="viewport update">
       <created>1606364870567</created>
@@ -131,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607229943880</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="-update before deploy on aws">
+      <created>1607289524839</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607289524840</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +148,7 @@
     <MESSAGE value="-initial developer branch commit" />
     <MESSAGE value="-connected all links &#10;-added resume&#10;-various animation tweaks" />
     <MESSAGE value="-added link to drag and drop kanban&#10;-changed font awesome on bottom cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="-added link to drag and drop kanban&#10;-changed font awesome on bottom cards" />
+    <MESSAGE value="-update before deploy on aws" />
+    <option name="LAST_COMMIT_MESSAGE" value="-update before deploy on aws" />
   </component>
 </project>
